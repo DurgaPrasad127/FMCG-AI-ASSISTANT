@@ -1,0 +1,41 @@
+store_id,store_name,region,city,store_format
+STR-001,FreshMart Square,North,Brighton Falls,Convenience
+STR-002,MegaBasket Plaza,North,Millhaven,Supermarket
+STR-003,QuickStop Heights,North,Eastwick,Convenience
+STR-004,QuickStop Junction,North,Northgate,Supermarket
+STR-005,FreshMart Junction,North,Brighton Falls,Supermarket
+STR-006,MarketPlace Junction,North,Millhaven,Hypermarket
+STR-007,ValueGrocer Central,North,Eastwick,Convenience
+STR-008,MegaBasket Heights,North,Northgate,Hypermarket
+STR-009,MegaBasket Junction,North,Brighton Falls,Supermarket
+STR-010,DailyNeeds Plaza,North,Millhaven,Wholesale
+STR-011,QuickStop Crossing,South,Suncrest,Supermarket
+STR-012,ValueGrocer Central,South,Palmridge,Hypermarket
+STR-013,QuickStop Heights,South,Bayport,Hypermarket
+STR-014,ValueGrocer Crossing,South,Southfield,Supermarket
+STR-015,QuickStop Central,South,Suncrest,Convenience
+STR-016,ValueGrocer Plaza,South,Palmridge,Convenience
+STR-017,QuickStop Heights,South,Bayport,Wholesale
+STR-018,DailyNeeds Southside,South,Southfield,Supermarket
+STR-019,CornerShop Square,South,Suncrest,Supermarket
+STR-020,QuickStop Southside,South,Palmridge,Hypermarket
+STR-021,CornerShop Southside,East,Rivermouth,Convenience
+STR-022,ValueGrocer Junction,East,Harborview,Convenience
+STR-023,FreshMart Junction,East,Eastbrook,Convenience
+STR-024,DailyNeeds Heights,East,Cliffside,Hypermarket
+STR-025,CornerShop Crossing,East,Rivermouth,Supermarket
+STR-026,primeBuy Heights,East,Harborview,Supermarket
+STR-027,primeBuy Southside,East,Eastbrook,Wholesale
+STR-028,CornerShop Square,East,Cliffside,Supermarket
+STR-029,MarketPlace Heights,East,Rivermouth,Hypermarket
+STR-030,MegaBasket Market,East,Harborview,Supermarket
+STR-031,FreshMart Plaza,West,Westfield,Supermarket
+STR-032,MegaBasket Heights,West,Goldvale,Supermarket
+STR-033,MarketPlace Heights,West,Pinecrest,Convenience
+STR-034,primeBuy Square,West,Sierraton,Convenience
+STR-035,FreshMart Plaza,West,Westfield,Wholesale
+STR-036,ValueGrocer Crossing,West,Goldvale,Convenience
+STR-037,MarketPlace Southside,West,Pinecrest,Supermarket
+STR-038,ValueGrocer Southside,West,Sierraton,Convenience
+STR-039,QuickStop Square,West,Westfield,Convenience
+STR-040,CornerShop Southside,West,Goldvale,Hypermarket

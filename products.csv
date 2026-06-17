@@ -1,0 +1,19 @@
+product_id,product_name,brand,category,sub_category,pack_size_ml,unit_price
+BEV-001,Spark Lemon Sparkling Water 500ml,Spark,Carbonated,Sparkling Water,500,1.49
+BEV-002,Spark Classic Cola 500ml,Spark,Carbonated,Cola,500,1.69
+BEV-003,Spark Classic Cola 1500ml,Spark,Carbonated,Cola,1500,2.99
+BEV-004,FizzPop Orange Soda 330ml,FizzPop,Carbonated,Flavoured Soda,330,1.29
+BEV-005,FizzPop Ginger Ale 330ml,FizzPop,Carbonated,Flavoured Soda,330,1.29
+BEV-006,PureSpring Still Water 500ml,PureSpring,Water,Still Water,500,0.79
+BEV-007,PureSpring Still Water 1000ml,PureSpring,Water,Still Water,1000,1.19
+BEV-008,PureSpring Sparkling Mineral Water 750ml,PureSpring,Water,Sparkling Water,750,1.59
+BEV-009,Orchardly Orange Juice 1000ml,Orchardly,Juice,Fruit Juice,1000,3.49
+BEV-010,Orchardly Apple Juice 1000ml,Orchardly,Juice,Fruit Juice,1000,3.29
+BEV-011,Orchardly Mixed Berry Juice 250ml,Orchardly,Juice,Fruit Juice,250,1.49
+BEV-012,TropiBlend Mango Juice 1000ml,TropiBlend,Juice,Fruit Juice,1000,3.59
+BEV-013,VoltUp Energy Drink 250ml,VoltUp,Energy,Energy Drink,250,2.19
+BEV-014,VoltUp Sugar-Free Energy Drink 250ml,VoltUp,Energy,Energy Drink,250,2.29
+BEV-015,RushPeak Energy Drink 500ml,RushPeak,Energy,Energy Drink,500,3.49
+BEV-016,DairyDrop Chocolate Milk Drink 350ml,DairyDrop,Dairy,Flavoured Milk,350,1.89
+BEV-017,DairyDrop Strawberry Milk Drink 350ml,DairyDrop,Dairy,Flavoured Milk,350,1.89
+BEV-018,AthleteAde Sports Drink 500ml,AthleteAde,Energy,Sports Drink,500,1.99
